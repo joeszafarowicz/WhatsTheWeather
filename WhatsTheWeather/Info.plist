@@ -62,5 +62,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationUsageDescription</key>
+	<string>Allows app to get weather for devices&apos; location.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allows app to get weather for devices&apos; location.</string>
 </dict>
 </plist>
